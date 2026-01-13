@@ -1,0 +1,23 @@
+LOGLENS
+
+--------------------------------------
+conda activate loglens
+cd Desktop/Loglens/files
+setx SECRET_KEY "local_dev_secret"
+setx DATABASE_URL "sqlite+aiosqlite:///./loglens.db"
+python -m scripts.init_db
+uvicorn app.main:app --reload
+http://127.0.0.1:8000/docs
+---------------------------------------
+
+{
+  "email": "argon@test.com",
+  "password": "pass",
+  "is_premium": true
+}
+
+{
+  "id": 1,
+  "email": "argon@test.com",
+  "is_premium": true
+}

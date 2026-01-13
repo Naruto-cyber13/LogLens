@@ -27,11 +27,11 @@ This makes it easier to **understand what matters** and **act faster**.
 ## 🧠 High-Level Architecture
 
 User
-->
+-->
 Frontend (React + Vite)
--> API Requests
+--> API Requests
 Backend (Python – FastAPI)
-->
+-->
 Log Processing & Analysis
 
 

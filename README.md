@@ -41,41 +41,6 @@ Log Processing & Analysis
 
 ---
 
-## 📁 Project Folder Structure
-
-The repository follows a **standard full-stack structure**:
-
-LogLens/
-│
-├── frontend/ # Frontend application (React + Vite)
-│ ├── public/ # Static assets
-│ ├── src/
-│ │ ├── components/ # Reusable UI components
-│ │ ├── pages/ # Page-level components
-│ │ ├── services/ # API service calls
-│ │ ├── hooks/ # Custom React hooks
-│ │ ├── App.jsx # Root component
-│ │ └── main.jsx # Application entry point
-│ │
-│ ├── index.html # HTML template
-│ ├── package.json # Frontend dependencies
-│ ├── vite.config.js # Vite configuration
-│ └── .env.example # Example environment variables
-│
-├── backend/ # Backend application (Python)
-│ ├── app/
-│ │ ├── routes/ # API endpoints
-│ │ ├── models/ # Data models
-│ │ ├── services/ # Business logic
-│ │ ├── utils/ # Helper utilities
-│ │ └── main.py # Backend entry point
-│ │
-│ ├── requirements.txt # Python dependencies
-│ └── .env.example # Example backend environment variables
-│
-├── .gitignore # Ignored files & folders
-├── README.md # Project documentation
-
 ---
 
 ## ⚙️ How LogLens Works (Conceptually)

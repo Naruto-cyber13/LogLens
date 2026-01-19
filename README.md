@@ -134,7 +134,8 @@ Instead:
 
 **Debargha Naskar**  
 Cybersecurity & Software Engineering Enthusiast  
-**AI assistance used: ChatGPT, GitHub Copilot 
+
+AI assistants: **ChatGPT, GitHub Copilot** 
 
 This project is part of a hands-on learning journey focused on building **real-world security tools**, not just demos.
 

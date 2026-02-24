@@ -100,7 +100,20 @@ This separation allows:
 - Cleaner CI/CD workflows
 
 ---
+## 🖼️ Screenshots
 
+### 🔹 Home Page
+![Home Page](screenshots/Upload.png)
+
+### 🔹 SwaggerUI
+![SwaggerUI](screenshots/SwaggerUI.png)
+
+### 🔹 Login
+![Login](screenshots/Login.png)
+
+### 🔹 Scan Result
+![Scan Result](screenshots/Result1.png)
+![Scan Result](screenshots/Result2.png)
 ## 🔐 Environment Variables
 
 Sensitive data is **never committed**.

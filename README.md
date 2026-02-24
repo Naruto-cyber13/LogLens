@@ -101,18 +101,21 @@ This separation allows:
 
 ---
 ## 🖼️ Screenshots
-
-### 🔹 Home Page
-![Home Page](screenshots/Upload.png)
-
 ### 🔹 SwaggerUI
 ![SwaggerUI](screenshots/SwaggerUI.png)
 
 ### 🔹 Login
 ![Login](screenshots/Login.png)
 
+### 🔹 Home Page
+![Home Page](screenshots/Upload.png)
+
+### 🔹 Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
 ### 🔹 Scan Result
 ![Scan Result](screenshots/Result1.png)
+
 ![Scan Result](screenshots/Result2.png)
 ## 🔐 Environment Variables
 
